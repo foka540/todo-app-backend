@@ -1,0 +1,6 @@
+Python-3.13.0/
+__pycache__/
+*.pyc
+*.db
+venv/
+.git/
